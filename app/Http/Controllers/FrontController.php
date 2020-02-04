@@ -25,4 +25,9 @@ class FrontController extends Controller
     {
         return view('frontend.home');
     }
+
+    public function termsConditions()
+    {
+        return view('frontend.Terms-Conditions');
+    }
 }

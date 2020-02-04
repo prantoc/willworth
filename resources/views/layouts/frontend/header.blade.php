@@ -47,7 +47,7 @@
 
                 <!-- Logo -->
                 <div class="navbar-logo">
-                    <a class="navbar-logo-wrap" href="index.html">
+                    <a class="navbar-logo-wrap" href="{{route('home')}}">
                         <img class="navbar-logo-img" src="{{ asset('assets/frontend/templates/img/logo.png')}}" alt="WillWorth Logo" style="width: 128px;height: 80px;">
                     </a>
                 </div>

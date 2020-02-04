@@ -26,3 +26,4 @@ Auth::routes();
 */
 
 Route::get('/', 'FrontController@index')->name('home');
+Route::get('terms-conditions', 'FrontController@termsConditions')->name('terms-conditions');

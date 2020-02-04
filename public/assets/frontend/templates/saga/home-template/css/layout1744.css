@@ -1879,6 +1879,23 @@ li.dropdown:hover>.dropdown-menu2 {
 .white{
     color: #fff;
 }
+
+
+#k2Container {
+    margin-top: 70px;
+}
+
+.itemBody {
+    margin-top: 30px;
+}
+
+#share-buttons img {
+    width: 35px;
+    padding: 5px;
+    border: 0;
+    box-shadow: 0;
+    display: inline;
+}
 /*Slider-css*/
 
 .carousel-inner {

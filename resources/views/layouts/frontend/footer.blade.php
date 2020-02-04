@@ -194,7 +194,7 @@
             <div class="col-xs-6">
                 <ul class="footer-nav list-unstyled">
                     <li><a class="fweight-300" href="#">Privacy Policy</a></li>
-                    <li><a class="fweight-300" href="#">Terms of Use</a></li>
+                    <li><a class="fweight-300" href="{{route('terms-conditions')}}">Terms of Use</a></li>
                 </ul>
                 <!--<img class="footer-logo" src="img/logo.png" alt="will">-->
             </div>
