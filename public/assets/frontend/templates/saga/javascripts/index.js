@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery(document).ready(function(){jQuery(".article").mouseenter(function(){jQuery("article").css("opacity","0.3"),jQuery(this).css("opacity","1"),jQuery(this).find("p").addClass("highs")}),jQuery("article").mouseleave(function(){jQuery("article").css("opacity","1"),jQuery("p").removeClass("highs")})})});

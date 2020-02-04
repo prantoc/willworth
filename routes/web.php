@@ -11,6 +11,18 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('welcome');
+// });
+
+
+/*
+* -----------------------------Auth route----------------------------------
+*/
+Auth::routes();
+
+/*
+* -----------------------------Frontend routes----------------------------------
+*/
+
+Route::get('/', 'FrontController@index')->name('home');
