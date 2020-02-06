@@ -1896,6 +1896,125 @@ li.dropdown:hover>.dropdown-menu2 {
     box-shadow: 0;
     display: inline;
 }
+
+.itemContentFooter{
+    display: block;
+    text-align: right;
+    padding: 4px;
+    margin: 16px 0 4px 0;
+    border-top: 1px solid #ddd;
+    color: #999;
+}
+
+.itemSocialSharing {
+    padding: 8px 0;
+}
+.itemLinks {
+    margin: 16px 0;
+    padding: 0;
+}
+
+.itemCategory {
+    padding: 4px;
+    border-bottom: 1px dotted #ccc;
+}
+.itemCategory span {
+    font-weight: bold;
+    color: #555;
+    padding: 0 4px 0 0;
+}
+.itemLinks {
+    margin: 16px 0;
+    padding: 0;
+}
+
+.itemCategory {
+    padding: 4px;
+    border-bottom: 1px dotted #ccc;
+}
+
+.itemCategory span {
+    font-weight: bold;
+    color: #555;
+    padding: 0 4px 0 0;
+}
+.itemNavigation {
+    padding: 4px 8px;
+    margin: 0 0 24px 0;
+    border-top: 1px dotted #ccc;
+    border-bottom: 1px dotted #ccc;
+    background: #fffff0;
+}
+
+.itemListCategory {
+    background: #f7fafe;
+    border: 1px solid #ddd;
+    margin: 4px 0;
+    padding: 8px;
+}
+
+.catItemHeader span.catItemDateCreated {
+    color: #999;
+    font-size: 11px;
+}
+.catItemHeader h3.catItemTitle {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: normal;
+    line-height: 110%;
+    padding: 0px 0 4px 0;
+    margin: 0;
+}
+.catItemCategory {
+    padding: 4px;
+    border-bottom: 1px solid #ccc;
+}
+
+.catItemLinks {
+    margin: 0 0 16px 0;
+    padding: 0;
+}
+.itemListCategory img {
+    float: left;
+    display: block;
+    background: #fff;
+    padding: 4px;
+    border: 1px solid #ddd;
+    margin: 0 8px 0 0;
+}
+
+.mrgn-top{
+    margin-top: 15px;
+}
+.clr {
+    clear: both;
+    height: 0;
+    line-height: 0;
+    display: block;
+    float: none;
+    padding: 0;
+    margin: 0;
+    border: none;
+}
+
+.related-items h3 {
+    font-size: 19px;
+    text-align: left;
+    height: 53px;
+    overflow: hidden;
+}
+
+.bg-news {
+    height: 160px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin-bottom: 10px;
+}
+.related-items h4 {
+    text-align: center;
+}
 /*Slider-css*/
 
 .carousel-inner {

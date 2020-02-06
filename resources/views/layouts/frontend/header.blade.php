@@ -124,12 +124,12 @@
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-item-child" href="#">CAREER<span class="caret"></span></a>
+                            <a class="nav-item-child" href="#">News<span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                <li><a href="#">Tour to willworth video</a></li>
-                                <li><a href="#">Financial Services</a></li>
-                                <li><a href="#">ধন্যবাদ</a></li>
-                                <li><a href="#">Home Appliances</a></li>
+                                <li><a href="{{route('press')}}">Press</a></li>
+                                <li><a href="{{route('news')}}">News</a></li>
+                                <li><a href="{{route('single-news')}}">Single news</a></li>
+                                <li><a href="{{route('terms-conditions')}}">Treams & condition</a></li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">

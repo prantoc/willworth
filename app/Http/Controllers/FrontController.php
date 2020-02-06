@@ -28,6 +28,21 @@ class FrontController extends Controller
 
     public function termsConditions()
     {
-        return view('frontend.Terms-Conditions');
+        return view('frontend.terms-conditions');
+    }
+
+    public function press()
+    {
+        return view('frontend.press');
+    }
+
+    public function news()
+    {
+        return view('frontend.news');
+    }
+
+    public function singleNews()
+    {
+        return view('frontend.single-news');
     }
 }

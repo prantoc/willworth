@@ -27,3 +27,7 @@ Auth::routes();
 
 Route::get('/', 'FrontController@index')->name('home');
 Route::get('terms-conditions', 'FrontController@termsConditions')->name('terms-conditions');
+
+Route::get('press', 'FrontController@press')->name('press');
+Route::get('news', 'FrontController@news')->name('news');
+Route::get('single-news', 'FrontController@singleNews')->name('single-news');
