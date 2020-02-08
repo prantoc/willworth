@@ -38,3 +38,5 @@ Route::get('single-page-two', 'FrontController@singlepageTwo')->name('single-pag
 Route::get('mission-vission', 'FrontController@missionVission')->name('mission-vission');
 
 Route::get('who-we-are', 'FrontController@whoweAre')->name('who-we-are');
+Route::get('blog', 'FrontController@blog')->name('blog');
+Route::get('single-blog', 'FrontController@singleBlog')->name('single-blog');

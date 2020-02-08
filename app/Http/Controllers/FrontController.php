@@ -70,4 +70,13 @@ class FrontController extends Controller
     {
         return view('frontend.who-we-are');
     }
+
+    public function blog()
+    {
+        return view('frontend.blog');
+    }
+    public function singleBlog()
+    {
+        return view('frontend.single-blog');
+    }
 }
