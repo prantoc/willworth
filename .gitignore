@@ -10,13 +10,4 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
-\public\assets\frontend\templates\saga\images
-\public\assets\frontend\templates\saga\home-template\img
-\public\assets\frontend\templates\img
-public/assets/frontend/components/com_k2/images/system/searchLoader.gif
-public/assets/frontend/components/com_k2/images/system/loading.gif
-public/assets/frontend/components/com_k2/images/system/stripes.png
-public/assets/frontend/components/com_k2/images
-public/assets/frontend/media/k2/items
-public/assets/frontend/media/system/images
-public/assets/frontend/templates/img
+

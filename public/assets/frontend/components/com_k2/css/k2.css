@@ -1044,3 +1044,85 @@ div.k2CategoriesListBlock ul li{
 .itemFullText a span {
     color: #428bca!important;
 }
+
+.here-at-willworth {
+    background: url(../../../templates/img/6.jpg) no-repeat center top fixed;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    color: #ffffff;
+}
+
+.here-at-willworth .color-overlay {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background: rgba(0, 0, 0, 0.75) none repeat 0 0;
+}
+
+
+.here-at-willworth .main-color {
+    text-align: left;
+    margin-bottom: 0;
+    margin-top: 10px;
+    color: #11cfb2;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 300;
+}
+.txt-who-we-are p{
+	color: #fff;
+}
+
+.here-at-willworth .color-overlay {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background: rgba(0, 0, 0, 0.75) none repeat 0 0;
+}
+
+
+.strategies {
+    background: url(../../../templates/img/6.jpg) no-repeat center top fixed;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    color: #ffffff;
+}
+
+
+.strategies .color-overlay {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background: rgba(0, 0, 0, 0.75) none repeat 0 0;
+}
+.strategies p {
+    color: #fff;
+}
+.strategies .shot {
+    background: rgba(255, 255, 255, 0.25);
+    padding: 10px 30px;
+    margin-bottom: 30px;
+    border-radius: 4px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    display: block;
+    /* border: 2px solid #000; */
+}
+
+.colored-line-left {
+    background: #11cfb2;
+    z-index: 1;
+    display: block;
+    width: 165px;
+    height: 1px;
+}
+
+.shot .main-color {
+		color: #11cfb2;
+}
+.shot .white-text {
+		color: #fff;
+}

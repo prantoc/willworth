@@ -65,4 +65,9 @@ class FrontController extends Controller
     {
         return view('frontend.mission-vission');
     }
+
+    public function whoweAre()
+    {
+        return view('frontend.who-we-are');
+    }
 }
