@@ -129,6 +129,10 @@
                                 <li><a href="{{route('press')}}">Press</a></li>
                                 <li><a href="{{route('news')}}">News</a></li>
                                 <li><a href="{{route('single-news')}}">Single news</a></li>
+                                <li><a href="{{route('single-page')}}">Single page</a></li>
+                                <li><a href="{{route('single-page-one')}}">Single page one</a></li>
+                                <li><a href="{{route('single-page-two')}}">Single page two</a></li>
+                                <li><a href="{{route('mission-vission')}}">Mission Vission</a></li>
                                 <li><a href="{{route('terms-conditions')}}">Treams & condition</a></li>
                             </ul>
                         </li>

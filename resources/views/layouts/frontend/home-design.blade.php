@@ -33,7 +33,8 @@
     <!-- Favicon -->
     <link rel="shortcut icon" href="{{ asset('assets/frontend/templates/img/157x30.png')}}"/>
 
-          
+          @yield('styles')
+          @yield('single-styles')
     </head>
     <!-- END HEAD -->
 
@@ -113,5 +114,7 @@
 
     });
     </script>
+    @yield('scripts')
+    @yield('single-scripts')
 </body>
 </html>

@@ -45,4 +45,24 @@ class FrontController extends Controller
     {
         return view('frontend.single-news');
     }
+
+    public function singlePage()
+    {
+        return view('frontend.single-page');
+    }
+
+    public function singlepageOne()
+    {
+        return view('frontend.single-page-one');
+    }
+
+    public function singlepageTwo()
+    {
+        return view('frontend.single-page-two');
+    }
+
+    public function missionVission()
+    {
+        return view('frontend.mission-vission');
+    }
 }
